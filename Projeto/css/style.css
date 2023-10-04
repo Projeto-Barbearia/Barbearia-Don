@@ -59,12 +59,13 @@
     position: relative;
 }
 .titulo{
-    position: absolute;
     color: #fff;
     font-size: 40px; 
    text-shadow:  3px 3px black;
    bottom: 0;
-   left: 30%;
+   display: flex;
+   justify-content: center;
+   padding: 10px;
 }
 .polite{
     padding: 30px;
