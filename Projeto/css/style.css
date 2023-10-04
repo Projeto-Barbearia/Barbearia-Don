@@ -59,7 +59,7 @@
 }
 .titulo{
     color: #fff;
-    font-size: 40px; 
+    font-size: 50px; 
    text-shadow:  3px 3px black;
    bottom: 0;
    display: flex;
@@ -94,8 +94,9 @@
 .tnd{
     text-align: center;
     padding: 8px;
-    font-size: 30px;
+    font-size: 40px;
     text-shadow: 1px 1px #696969;
+    margin-top: 20px;
 }
 .cutting_style{
     width: 100%;
