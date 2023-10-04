@@ -66,6 +66,7 @@
     height: 650px;
     margin-top: 50px;
     position: relative;
+    text-align: center;
 }
 .gallery figcaption{
     position: absolute;
